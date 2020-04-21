@@ -1,2 +1,2 @@
-# js-development-envirnment
-A practical class on building a javascript development environment on plurasight platform
+# Hanna's own dev env
+a modified version of dev environment using gnok instead of localtunnel
